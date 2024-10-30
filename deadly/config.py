@@ -1,0 +1,5 @@
+host = "localhost"
+user = "root"
+password = "passwd"
+database = "mydb"
+API_TOKEN = "6835892255:AAG_b-_yY9wcZ5OMot9fSnt5hnPeQAreMSs"
